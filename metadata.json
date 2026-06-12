@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge AI",
+  "description": "Transform long-form videos into viral Shorts, Reels, and TikToks with automated AI editing, transcripts, and high-energy moment detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
